@@ -1,0 +1,15 @@
+111 Freshman
+Bruce Willis
+3.54
+333 Sophomore
+Billy Bob Thornton
+3.9
+222 Freshman
+Meryl Streep
+4.0
+555 Senior
+Mary Margaret Myrtle May Millern
+3.05
+444 Graduate
+Madonna
+3.7
