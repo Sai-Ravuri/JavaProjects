@@ -34,7 +34,8 @@ public class numArray {
             System.out.println(str);
         }System.out.println();
         for (int i=0; i<strArray.length; i++ ){
-            if (strArray[i].charAt(0) >= "H"){
+            if (strArray[i].charAt(0) >= 'H'){
+
                 System.out.println(strArray[i]);
             }
         }
